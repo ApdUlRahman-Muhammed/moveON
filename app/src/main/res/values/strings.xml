@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">moveON</string>
+    <string name="most_popular">Most Popuar</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="overview">OverView</string>
+    <string name="reviews">Reviews</string>
+    <string name="show_more">show more</string>
+    <string name="show_less">show less</string>
+    <string name="trailers">Trailers</string>
+    <string name="favourit">Favourit</string>
+    <string name="apikey">6e3da7ea3b2887af2a99f6ed667495ac</string>
+</resources>
